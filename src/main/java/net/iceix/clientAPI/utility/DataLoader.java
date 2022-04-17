@@ -22,7 +22,7 @@ public class DataLoader {
         repository.save(new Client( "1001","Charles","Dickens"));
         repository.save(new Client( "1002","Harper","Lee"));
         repository.save(new Client( "1003","Leo","Tolstoy"));
-        repository.save(new Client( "1004","Jane","Austien"));
+        repository.save(new Client( "1004","Jane","Austen"));
         repository.save(new Client( "1005","JK","Rowling"));
         repository.save(new Client( "1006","Kurt","Vonnegut"));
     }
